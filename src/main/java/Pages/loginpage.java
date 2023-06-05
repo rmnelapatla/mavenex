@@ -7,5 +7,11 @@ public class loginpage {
     @FindBy(xpath = "")
     public WebElement textusername;
 
+    @FindBy(className = "")
+
+    public WebElement textusername2;
+
+
+
 
 }
