@@ -8,4 +8,9 @@ public class Example1 {
             System.out.println(i);
         }while(i<10);
     }
+
+
+public void meto(){
+        System.out.println("print");
+}
 }
