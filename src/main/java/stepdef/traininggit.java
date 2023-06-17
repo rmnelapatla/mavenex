@@ -11,5 +11,9 @@ public class traininggit {
         do{
             i++;
         }while (i<10);
+        System.out.println("welcome to java by ramana");
+        for (int i=0;i<10;i++){
+            System.out.println(i);
+        }
     }
 }
